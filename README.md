@@ -2,11 +2,11 @@
 
 My name is Taylor Bruun and I am currently learning software development at CodeWorks here in Boise, Idaho. I am a licended Idaho attorney and I am interested in becoming a full stack developer to bring my love from complex problem solving to an entierly different field! 
 
-I am currently working on server side interactions, NodeJS, and data transfer utilizing HTTP protocols.
+I am currently working on my C# and MySQL skills, and am using Vue as a frontend framework.
 
-I have already studied HTML, CSS, and the basics of frontend architecture in JavasScript. I have also taken a brief foray into Java for some personal projects.
+I have already studied HTML, CSS, MongoDB, Javascript, and NodeJS and the basics of frontend architecture in JavasScript. I have also taken a brief foray into Java for some personal projects.
 
-Some of my current interests include the basics of managing client identity/connections, backend data strcuctures, and the creative application of random number generation to solve a problem! 
+Some of my current interests include the basics of managing client identity/connections, backend data structures, and the creative application of random number generation to solve a problem! 
 
 Feel free to contact me via Email, taylorbruun@gmail.com, or search for me on slack! 
 
