@@ -8,7 +8,7 @@ I have already studied HTML, CSS, and the basics of frontend architecture in Jav
 
 Some of my current interests include the basics of managing client identity/connections, backend data strcuctures, and the creative application of random number generation to solve a problem! 
 
-Feel free to contact me via Email, taylorbruun@gmail.com, or searchfor me on slack! 
+Feel free to contact me via Email, taylorbruun@gmail.com, or search for me on slack! 
 
 <!--
 **TaylorBruun/TaylorBruun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
