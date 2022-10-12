@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Taylor Bruun and I am a licended Idaho attorney and I am interested in becoming a full stack developer to bring my love from complex problem solving to an entierly different field! 
+My name is Taylor Bruun and I am a licended Idaho attorney and I am interested in becoming a full stack developer to bring my love of complex problem solving to an entierly different field! 
 
 I am currently working on my C# and MySQL skills, and am using Vue as a frontend framework.
 
